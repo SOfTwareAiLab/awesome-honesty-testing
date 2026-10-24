@@ -445,9 +445,7 @@ An **honesty bug** is a behavioral defect in which a model or agent, when requir
 - Petri: An open-source auditing tool to accelerate AI safety research (Anthropic blog 2025) [[website]](https://alignment.anthropic.com/2025/petri) [[code]](https://github.com/safety-research/petri)
 - Inspect: An Open-Source Framework for Large Language Model Evaluations (UK AISI 2024) [[website]](https://inspect.aisi.org.uk/) [[code]](https://github.com/UKGovernmentBEIS/inspect_ai)
 
-## Related Awesome Lists
 
-- [awesome-se4ai4sci](https://github.com/SOfTwareAiLab/awesome-se4ai4sci)
 
 ## Contributing
 
